@@ -93,7 +93,7 @@ Proyecto desarrollado por:
 
 ------------------------------------------
 #### Institución Académica 🏫
-Página web desarrollada para la materia de Programación Web del [Programa de Ingeniería de Sistemas](<https://ingsistemas.cloud.ufps.edu.co/>) de la [Universidad Francisco de Paula Santander](<https://ww2.ufps.edu.co/>).
+Página web desarrollada para la materia de Seminario Integrador 2 del [Programa de Ingeniería de Sistemas](<https://ingsistemas.cloud.ufps.edu.co/>) de la [Universidad Francisco de Paula Santander](<https://ww2.ufps.edu.co/>).
 
 
 ------------------------------------------
