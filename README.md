@@ -76,6 +76,8 @@ software necesario para el correcto funcionamiento de la pagina.
 4) Ejecutar en el terminal "npm run dev" para correr la pagina en el servidor local.
 5) En su navegador determinado escriba "localhost:3500" pues el puerto  por defecto es el 3500.
 6) En caso de solo querer acceder a la web, acceder en la demo.
+7) Para poder ver la vista del administrador dese el mismo login ingresa el correo: admin@admin.com y
+contraseña: admin.
 ```
 
 ------------------------------------------
