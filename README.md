@@ -89,6 +89,7 @@ https://spa-web-1151901.herokuapp.com/ .
 Proyecto desarrollado por:
 - Carlos Eduardo Contreras Mendoza (**carloseduardocmen@ufps.efu.co**)
 - Edinsson Alexis Montoya Cuadros (**edinssonalexismcua@ufps.edu.co**)
+- Yoner Arbey Silva Leal (**yonerarbeysl@ufps.edu.co**)
 
 ------------------------------------------
 #### Institución Académica 🏫
