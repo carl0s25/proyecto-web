@@ -75,20 +75,19 @@ software necesario para el correcto funcionamiento de la pagina.
 3) En caso de errores instalar las dependencias y hacer npm init en el terminal.
 4) Ejecutar en el terminal "npm run dev" para correr la pagina en el servidor local.
 5) En su navegador determinado escriba "localhost:3500" pues el puerto  por defecto es el 3500.
+6) En caso de solo querer acceder a la web, acceder en la demo.
 ```
 
 ------------------------------------------
 #### Demo 📲
-De momento la pagina no se ha desplegado.
+https://spa-web-1151901.herokuapp.com/ .
 
 ------------------------------------------
 #### Autores ✒️
 Proyecto desarrollado por:
 - Carlos Eduardo Contreras Mendoza (**carloseduardocmen@ufps.efu.co**)
 - Edinsson Alexis Montoya Cuadros (**edinssonalexismcua@ufps.edu.co**)
-- Santiago Felipe Alferez Villamizar (**santiagofelipeavil@ufps.edu.co**)
-- Ramiro Andres Jaimes Contreras (**ramiroandresjaco@ufps.edu.co**)
-- Said Fernando Lopez Gonzales (**saidfernandolgon@ufps.edu.co**)
+
 ------------------------------------------
 #### Institución Académica 🏫
 Página web desarrollada para la materia de Programación Web del [Programa de Ingeniería de Sistemas](<https://ingsistemas.cloud.ufps.edu.co/>) de la [Universidad Francisco de Paula Santander](<https://ww2.ufps.edu.co/>).
